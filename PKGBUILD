@@ -8,7 +8,7 @@ pkgrel=1
 license=('BSD')
 
 ros_makedepends=(
-	'ros-melodic-python-qt-binding>=0.4.0'
+	ros-melodic-python-qt-binding
 	ros-melodic-cmake-modules
 	ros-melodic-catkin
 	ros-melodic-pluginlib
